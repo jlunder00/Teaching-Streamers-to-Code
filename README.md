@@ -15,6 +15,8 @@ Download the Python extension
 Go to https://twitchtokengenerator.com/    
 Click Custom Scope Token    
 Enable the following:     
+chat:read
+chat:edit
 channel:moderate    
 channel:read:subscriptions    
 moderation:read    
